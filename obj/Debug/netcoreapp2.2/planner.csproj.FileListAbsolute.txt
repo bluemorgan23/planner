@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/planner.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/planner.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/planner.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/planner.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/bin/Debug/netcoreapp2.2/planner.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/planner.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/planner.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/planner.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/planner.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/planner.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/planner/obj/Debug/netcoreapp2.2/planner.pdb
